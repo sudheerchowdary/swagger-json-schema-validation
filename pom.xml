@@ -16,7 +16,7 @@
 
 	<properties>
 		<java.version>1.8</java.version>
-		<google-gosn.version>2.8.5</google-gosn.version>
+		<google-gosn.version>2.8.9</google-gosn.version>
 	</properties>
 
 	<dependencies>
